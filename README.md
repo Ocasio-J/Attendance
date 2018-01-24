@@ -4,6 +4,7 @@ Attendance tracking device software for senior capstone project.
 Software:
 - Qt 5.6 C++/QML
 - Raspbian OS
+- WiringPi
 
 Hardware:
 - Raspberry Pi 3
